@@ -23,12 +23,16 @@ This chart shows a time series of movie ratings over time. This is a line chart 
 
 ### Scatter Plot
 ![image](https://github.com/user-attachments/assets/3cb95b2f-002a-46e8-9694-72f5e53e011a)
+
 This chart shows a scatter plot with the movie runtime on the x-axis and ratings on the y-axis. Each dot represents a movie, and genres are color-coded. Interactions include filtering by genre, with hover details showing the title and director. If you hover over the dots, you can see the movie name with its run time and rating information.
+
 ![image](https://github.com/user-attachments/assets/74b1715c-21a7-404b-b984-409db3c24891)
 
 ### Bubble Chart
 ![image](https://github.com/user-attachments/assets/ba22d872-3c31-4e1a-bab8-f9ea8fa45fe2)
+
 This is a bubble chart where the size of each bubble represents the most highly rated movies. This chart can be filtered for directors and the chart will display data only for the chosen director. If you hover over the bubble, you can see the total ratings that the movie has received.
+
 ![image](https://github.com/user-attachments/assets/7d3f4b21-2797-4714-9c0e-f5606201b056)
 
 
