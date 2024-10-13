@@ -40,10 +40,7 @@ This is a bubble chart where the size of each bubble represents the most highly 
 
 I’ve created a proof of concept visualization of this data. It's a scatter plot and it shows the relationship between movie runtime and IMDB ratings. Each dot on the plot represents a movie, with its runtime on the x-axis and its rating on the y-axis. The colors of the dots are coded by genre, and users can filter the movies displayed by selecting a genre from the dropdown menu on the right. The legend, located beside the graph, lists all the available genres and their corresponding colors, allowing for an easy visual understanding of how genres relate to movie characteristics. This visualization helps identify patterns, such as whether certain genres tend to have longer runtimes or higher ratings, all while allowing interactive exploration through the genre filter.
 
-![image](https://github.com/user-attachments/assets/1e0b694a-6d31-473d-99bd-3615013b96b9)
-
-Here is an image of the plot with the filter on:
-![image](https://github.com/user-attachments/assets/e1dd6dbe-dbe4-4e78-b3c1-28a42451e4ae)
+![image](https://github.com/user-attachments/assets/9f82198b-d7f2-4da5-8b78-613e5cf15624)
 
 Here is the link to the [visualization](https://vizhub.com/rkhan570/429e8e8914e1420590ba25713a5a95bc?mode=embed).
 
