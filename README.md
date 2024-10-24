@@ -44,6 +44,12 @@ I’ve created a proof of concept visualization of this data. It's a scatter plo
 
 Here is the link to the [visualization](https://vizhub.com/rkhan570/429e8e8914e1420590ba25713a5a95bc?mode=embed).
 
+For this visualization, I initially intended to create a world map showing movie production by country based on the IMDB Top 1000 dataset. However, the IMDB dataset did not include a country column, which was essential for the map I envisioned. To overcome this limitation, I pivoted to using Netflix's title dataset, which contains a country column. This dataset allowed me to map the distribution of movies produced across different countries, represented using a color scale from grey (0 movies) to dark blue (100 movies). This map provides an interactive visualization of movie production worldwide, giving users insights into which countries have contributed the most Netflix titles.
+
+![image](https://github.com/user-attachments/assets/ed1b0237-aa63-428f-9668-3071ed9384c3)
+
+Here is the link to the [visualization](https://vizhub.com/rkhan570/2ac74cb664aa4253a8687beec3c46070?mode=embed).
+
 ## Milestones
 
 Here is a tentative schedule for the project's progress:
