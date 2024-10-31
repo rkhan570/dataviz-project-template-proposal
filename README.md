@@ -37,19 +37,25 @@ This is a bubble chart where the size of each bubble represents the most highly 
 
 
 ## Prototypes
-
+### Scatter Plot (10/12)
 I’ve created a proof of concept visualization of this data. It's a scatter plot and it shows the relationship between movie runtime and IMDB ratings. Each dot on the plot represents a movie, with its runtime on the x-axis and its rating on the y-axis. The colors of the dots are coded by genre, and users can filter the movies displayed by selecting a genre from the dropdown menu on the right. The legend, located beside the graph, lists all the available genres and their corresponding colors, allowing for an easy visual understanding of how genres relate to movie characteristics. This visualization helps identify patterns, such as whether certain genres tend to have longer runtimes or higher ratings, all while allowing interactive exploration through the genre filter.
 
 ![image](https://github.com/user-attachments/assets/9f82198b-d7f2-4da5-8b78-613e5cf15624)
 
 Here is the link to the [visualization](https://vizhub.com/rkhan570/429e8e8914e1420590ba25713a5a95bc?mode=embed).
 
+### World Map (10/17)
 For this visualization, I initially intended to create a world map showing movie production by country based on the IMDB Top 1000 dataset. However, the IMDB dataset did not include a country column, which was essential for the map I envisioned. To overcome this limitation, I pivoted to using Netflix's title dataset, which contains a country column. This dataset allowed me to map the distribution of movies produced across different countries, represented using a color scale from grey (0 movies) to dark blue (100 movies). This map provides an interactive visualization of movie production worldwide, giving users insights into which countries have contributed the most Netflix titles.
 
 ![image](https://github.com/user-attachments/assets/ed1b0237-aa63-428f-9668-3071ed9384c3)
 
 Here is the link to the [visualization](https://vizhub.com/rkhan570/2ac74cb664aa4253a8687beec3c46070?mode=embed).
 
+### Bar Chart (10/17)
+This visualization displays the number of movies released per decade, with data spanning from the 1920s to the 2010s. Each bar represents a decade, and hovering over a bar reveals a tooltip that provides information on the number of movies released during that decade and the title of the top-rated movie, making it easy to identify standout films across each era. This visualization offers a quick and interactive overview of movie release trends over time, highlighting both volume and popular titles by decade. 
+![image](https://github.com/user-attachments/assets/ec1e5a72-5bb4-464a-a393-347a6d44b191)
+
+Here is a link to the [visualization](https://vizhub.com/rkhan570/e580c750d66148a1bba59e3e17fb87af?mode=embed)
 ## Milestones
 
 Here is a tentative schedule for the project's progress:
