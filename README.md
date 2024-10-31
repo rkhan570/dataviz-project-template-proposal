@@ -56,6 +56,12 @@ This visualization displays the number of movies released per decade, with data 
 ![image](https://github.com/user-attachments/assets/ec1e5a72-5bb4-464a-a393-347a6d44b191)
 
 Here is a link to the [visualization](https://vizhub.com/rkhan570/e580c750d66148a1bba59e3e17fb87af?mode=embed)
+
+This bar chart illustrates the average IMDb rating across various movie genres, providing a clear comparative insight into genre preferences based on viewer ratings. Each bar represents a genre with its height reflecting the average IMDb rating of movies in that category. Additionally, hovering over a genre reveals a tooltip highlighting the top-rated movie within that genre, adding an interactive element that allows viewers to see information about that bar. 
+![image](https://github.com/user-attachments/assets/bbfd0205-3221-442a-a035-7b15d5176aec)
+
+Here is a link to the [visualization](https://vizhub.com/rkhan570/3e4ba018c8c1434baf03c6f56a945c0b?mode=embed)
+
 ## Milestones
 
 Here is a tentative schedule for the project's progress:
