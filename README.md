@@ -69,6 +69,13 @@ This visualization displays the top 10 highest grossing movies in the dataset as
 
 Here is a link to the [visualization](https://vizhub.com/rkhan570/e8e436f75cd34cfc9b1f69c3cdd7a1ec?mode=embed)
 
+### Stacked Bar Chart (11/14)
+This visualization displays the top 20 movies and their IMDB score vs. their Meta Scores. Each bar represents a movie split into two segments: the upper segment (in red) represents the Meta Score and the lower segment (in blue) represents the IMDB Rating. A legend on the right side provides an interactive feature; hovering over "IMDb Rating" or "Meta Score" highlights the corresponding sections across all bars, making it easy to see how each score contributes to the overall rating for each film. This design visually emphasizes differences between IMDb and Meta scores, offering insights into rating trends and discrepancies among top-rated movies.
+
+![image](https://github.com/user-attachments/assets/0482fc10-3fdf-4e60-91ff-da3ce7ab715e)
+
+Here is a link to the [visualization](https://vizhub.com/rkhan570/7872ef88c8db4825a18b0527a9fc22f6?mode=embed)
+
 ## Milestones
 
 Here is a tentative schedule for the project's progress:
