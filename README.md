@@ -76,6 +76,12 @@ This visualization displays the top 20 movies and their IMDB score vs. their Met
 
 Here is a link to the [visualization](https://vizhub.com/rkhan570/7872ef88c8db4825a18b0527a9fc22f6?mode=embed)
 
+### Heat Map (11/21)
+This visualization represents the correlation between movie release years and their certification categories, offering a clear and interactive way to explore trends over time. Each cell in the heatmap corresponds to the amount of movies for a specific year-certification pairing. A brush selection tool allows users to select ranges of cellss and provides information about the total number of movies. 
+![image](https://github.com/user-attachments/assets/dbe37e90-bff6-4251-9925-ba656ba6bb67)
+![image](https://github.com/user-attachments/assets/d5683e07-6cec-4d21-8807-523524ce2794)
+
+Here is a link to the [visualization](https://vizhub.com/rkhan570/8a154de6e8864bc0b0e93ba281124fa0?edit=files&file=viz.js&tabs=viz.js%7Eindex.js)
 ## Milestones
 
 Here is a tentative schedule for the project's progress:
