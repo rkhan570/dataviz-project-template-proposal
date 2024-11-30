@@ -37,21 +37,21 @@ This is a bubble chart where the size of each bubble represents the most highly 
 
 
 ## Prototypes
-### Scatter Plot (10/12)
+### Scatter Plot
 I’ve created a proof of concept visualization of this data. It's a scatter plot and it shows the relationship between movie runtime and IMDB ratings. Each dot on the plot represents a movie, with its runtime on the x-axis and its rating on the y-axis. The colors of the dots are coded by genre, and users can filter the movies displayed by selecting a genre from the dropdown menu on the right. The legend, located beside the graph, lists all the available genres and their corresponding colors, allowing for an easy visual understanding of how genres relate to movie characteristics. This visualization helps identify patterns, such as whether certain genres tend to have longer runtimes or higher ratings, all while allowing interactive exploration through the genre filter.
 
 ![image](https://github.com/user-attachments/assets/9f82198b-d7f2-4da5-8b78-613e5cf15624)
 
 Here is the link to the [visualization](https://vizhub.com/rkhan570/429e8e8914e1420590ba25713a5a95bc?mode=embed).
 
-### World Map (10/17)
+### World Map
 For this visualization, I initially intended to create a world map showing movie production by country based on the IMDB Top 1000 dataset. However, the IMDB dataset did not include a country column, which was essential for the map I envisioned. To overcome this limitation, I pivoted to using Netflix's title dataset, which contains a country column. This dataset allowed me to map the distribution of movies produced across different countries, represented using a color scale from grey (0 movies) to dark blue (100 movies). This map provides an interactive visualization of movie production worldwide, giving users insights into which countries have contributed the most Netflix titles.
 
 ![image](https://github.com/user-attachments/assets/ed1b0237-aa63-428f-9668-3071ed9384c3)
 
 Here is the link to the [visualization](https://vizhub.com/rkhan570/2ac74cb664aa4253a8687beec3c46070?mode=embed).
 
-### Bar Chart (10/17)
+### Bar Chart
 This visualization displays the number of movies released per decade, with data spanning from the 1920s to the 2010s. Each bar represents a decade, and hovering over a bar reveals a tooltip that provides information on the number of movies released during that decade and the title of the top-rated movie, making it easy to identify standout films across each era. This visualization offers a quick and interactive overview of movie release trends over time, highlighting both volume and popular titles by decade. 
 ![image](https://github.com/user-attachments/assets/ec1e5a72-5bb4-464a-a393-347a6d44b191)
 
@@ -62,33 +62,33 @@ This bar chart illustrates the average IMDb rating across various movie genres, 
 
 Here is a link to the [visualization](https://vizhub.com/rkhan570/3e4ba018c8c1434baf03c6f56a945c0b?mode=embed)
 
-### Bubble Chart (11/7)
+### Bubble Chart
 This visualization displays the top 10 highest grossing movies in the dataset as a bubble chart. The size and the color of the bubble chart reflects whether the movie in question grossed high or low. Each bubble represents one of the 10 movies. When you hover over the bubbles, you can find out information about the movie such as its title, director's name, amount grossed, and its rating. This visualization helps to really contextualize the amount of money made by these movies and is a really quick tool to use when wanting to see information about the best selling movies.
 ![image](https://github.com/user-attachments/assets/b3270495-016a-426f-b073-567754e2d476)
 
 
 Here is a link to the [visualization](https://vizhub.com/rkhan570/e8e436f75cd34cfc9b1f69c3cdd7a1ec?mode=embed)
 
-### Stacked Bar Chart (11/14)
+### Stacked Bar Chart
 This visualization displays the top 20 movies and their IMDB score vs. their Meta Scores. Each bar represents a movie split into two segments: the upper segment (in red) represents the Meta Score and the lower segment (in blue) represents the IMDB Rating. A legend on the right side provides an interactive feature; hovering over "IMDb Rating" or "Meta Score" highlights the corresponding sections across all bars, making it easy to see how each score contributes to the overall rating for each film. This design visually emphasizes differences between IMDb and Meta scores, offering insights into rating trends and discrepancies among top-rated movies.
 
 ![image](https://github.com/user-attachments/assets/0482fc10-3fdf-4e60-91ff-da3ce7ab715e)
 
 Here is a link to the [visualization](https://vizhub.com/rkhan570/7872ef88c8db4825a18b0527a9fc22f6?mode=embed)
 
-### Heat Map (11/21)
+### Heat Map
 This visualization represents the correlation between movie release years and their certification categories, offering a clear and interactive way to explore trends over time. Each cell in the heatmap corresponds to the amount of movies for a specific year-certification pairing. A brush selection tool allows users to select ranges of cellss and provides information about the total number of movies. 
 ![image](https://github.com/user-attachments/assets/dbe37e90-bff6-4251-9925-ba656ba6bb67)
 ![image](https://github.com/user-attachments/assets/d5683e07-6cec-4d21-8807-523524ce2794)
 
 Here is a link to the [visualization](https://vizhub.com/rkhan570/8a154de6e8864bc0b0e93ba281124fa0?edit=files&file=viz.js&tabs=viz.js%7Eindex.js)
-## Milestones
 
+## Milestones
 Here is a tentative schedule for the project's progress:
-* Week 1: Time series chart for movie ratings over time and bar chart for number of movies released per year.
-* Week 2: scatter plot of ratings vs. runtime and bar chart for average rating per genre
-* Week 3: bar chart of gross earnings per genre and bubble chart of movie ratings per director
-* Week 4: bubble chart of gross earnings vs. ratings and bar chart of top 10 highest grossing movies
-* Week 5: heatmap of certification trends overtime and stacked bar chart of meta score vs. IMDB ratings
-* Week 6: Pie chart of genre distributions and fine tuning and adding advanced interactions
-* Week 7: final polishing and presentations
+* Week 1:Exploratory Visualizations and Initial Setup
+* Week 2: Scatter plot and general insights
+* Week 3: Revenue insights and genre exploration
+* Week 4: Revenue vs. Ratings and highlight top grossing movies.
+* Week 5: Certification Trends and Stacked Ratings
+* Week 6: Advanced Insights and Polishing
+* Week 7: Final polishing and presentations
