@@ -63,8 +63,10 @@ This bar chart illustrates the average IMDb rating across various movie genres, 
 Here is a link to the [visualization](https://vizhub.com/rkhan570/3e4ba018c8c1434baf03c6f56a945c0b?mode=embed)
 
 ### Bubble Chart
-This visualization displays the top 10 highest grossing movies in the dataset as a bubble chart. The size and the color of the bubble chart reflects whether the movie in question grossed high or low. Each bubble represents one of the 10 movies. When you hover over the bubbles, you can find out information about the movie such as its title, director's name, amount grossed, and its rating. This visualization helps to really contextualize the amount of money made by these movies and is a really quick tool to use when wanting to see information about the best selling movies.
+This visualization displays the top 10 highest grossing movies in the dataset as a bubble chart. The size and the color of the bubble chart reflects whether the movie in question grossed high or low. Each bubble represents one of the 10 movies. When you hover over the bubbles, you can find out information about the movie such as its title, director's name, amount grossed, and its rating. This visualization helps to really contextualize the amount of money made by these movies and is a really quick tool to use when wanting to see information about the best selling movies. I also added a feature where you can drag the bubbles. An example is attached below:
 ![image](https://github.com/user-attachments/assets/b3270495-016a-426f-b073-567754e2d476)
+![image](https://github.com/user-attachments/assets/bcf6d9d3-0360-4c5d-99b4-aaede9ed5ae7)
+
 
 
 Here is a link to the [visualization](https://vizhub.com/rkhan570/e8e436f75cd34cfc9b1f69c3cdd7a1ec?mode=embed)
